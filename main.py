@@ -5,7 +5,7 @@ from aiogram.filters import Command
 from aiogram.types import Message
 
 # ====== НАСТРОЙКИ ======
-BOT_TOKEN = "ВАШ_ТОКЕН_БОТА"
+BOT_TOKEN = "8689214788:AAFPFA4Bq2axNE_fEQJ5GWp1hhrA2RJsFcg"
 SOURCE_GROUP_ID = -1003680494852  # ID группы-источника
 TARGET_CHANNEL_ID = -1002671306056  # ID целевого канала
 # =======================
